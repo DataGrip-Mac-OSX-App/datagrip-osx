@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/datagrip">  
+<a href="https://tubus-jubus-apps.github.io/.github/datagrip">  
 <img src="https://img.shields.io/badge/💻_GET_DataGrip-teal?style=for-the-badge&logo=apple" alt="GET DataGrip">  
 </a>  
 </div>
